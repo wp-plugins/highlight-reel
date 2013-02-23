@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: JamieCassidy
-Tags: dribbble
+Tags: dribbble, design, web design, ui design
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: trunk
