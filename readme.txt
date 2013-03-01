@@ -12,9 +12,7 @@ Highlight Reel is a simple Wordpress plugin that enables you to easily display y
 
 == Description ==
 
-New in 1.1
-
-1. Fixed caching issue when changing the number of shots to show.
+New in 1.1 - Fixed caching issue when changing the number of shots to show.
 
 Highlight Reel is a simple Wordpress plugin that enables you to easily display your latest Dribbble shots on your website.
 
