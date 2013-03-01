@@ -4,13 +4,16 @@ Donate link: http://highlightreelwp.com/
 Tags: dribbble, design, web design, ui design
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: trunk
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Highlight Reel is a simple Wordpress plugin that enables you to easily display your latest Dribbble shots on your website.
 
 == Description ==
+
+New in 1.1
+1. Fixed caching issue when changing the number of shots to show.
 
 Highlight Reel is a simple Wordpress plugin that enables you to easily display your latest Dribbble shots on your website.
 
